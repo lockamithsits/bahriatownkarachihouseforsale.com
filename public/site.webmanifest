@@ -1,0 +1,13 @@
+{
+  "name": "Bahria Town Karachi House For Sale",
+  "short_name": "Bahria Town Karachi",
+  "description": "Buying guidance for houses, villas, apartments and flats in Bahria Town Karachi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#0b2e1f",
+  "icons": [
+    { "src": "/icon-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

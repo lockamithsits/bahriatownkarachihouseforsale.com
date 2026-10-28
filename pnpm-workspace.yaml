@@ -1,0 +1,7 @@
+packages:
+  - .
+# pnpm 12 blocks postinstall scripts by default; approved build scripts go here.
+allowBuilds:
+  esbuild: true
+  workerd: true
+  unrs-resolver: true
