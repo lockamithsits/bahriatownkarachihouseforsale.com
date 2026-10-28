@@ -8,6 +8,7 @@ import "./article.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.domain),
+  verification: { google: "jpVpbo39IeAvxWjOiF0uc4D8meKircMZEUBJLLpUXhw" },
   title: "Bahria Town Karachi House For Sale | Buying Guide",
   description:
     "Buying guidance for houses, villas, apartments and flats in Bahria Town Karachi. Call or message us for current availability and prices.",
